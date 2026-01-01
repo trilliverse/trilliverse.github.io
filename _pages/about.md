@@ -48,7 +48,7 @@ My research interest includes neural machine translation and computer vision. I 
 
 - [Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet](https://github.com), A, B, C, **CVPR 2020** -->
 
-# 🎖 Honors and Awards
+# 🏅 Honors and Awards
 - *2025.10* Bronze Medal, The 2025 ICPC Asia Chengdu Regional Contest.
 - *2025.10* National Scholarship (Undergraduate), China, Academic Year 2024–2025.
 - *2024.10* National Scholarship (Undergraduate), China, Academic Year 2023–2024.
