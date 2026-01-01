@@ -18,8 +18,8 @@ redirect_from:
 <span class='anchor' id='about-me'></span>
 
 I am an undergraduate student majoring in Big Data Management and Application at South China University of Technology, Guangzhou, China. 
-<!-- My research interests focus on graph neural networks, structural and spectral graph learning, and scalable graph representation learning. 
-I am particularly interested in designing efficient structural message passing operators and hierarchical graph modeling methods for large-scale graphs. 
+My research interests focus on graph neural networks, structural and spectral graph learning, and scalable graph representation learning. 
+<!-- I am particularly interested in designing efficient structural message passing operators and hierarchical graph modeling methods for large-scale graphs. 
 I am currently engaged in research projects and preparing manuscripts for submission to machine learning and data mining conferences. -->
 
 
@@ -29,7 +29,7 @@ My research interest includes neural machine translation and computer vision. I 
 
 
 # 🔥 News
-- *2025.01*: 🚀 Launched the [**SCUT-BDA Wiki**](https://scut-bda.github.io/BDA-wiki/), a collaborative knowledge base for the Big Data Association at South China University of Technology ([SCUT BDA](https://github.com/SCUT-BDA)), built with MkDocs and GitHub Pages.
+- *2026.01*: 🚀 Launched the [**SCUT-BDA Wiki**](https://scut-bda.github.io/BDA-wiki/), a collaborative knowledge base for the Big Data Association at South China University of Technology ([SCUT BDA](https://github.com/SCUT-BDA)), built with MkDocs and GitHub Pages.
 - *2025.10*: 🎉 Awarded the **National Scholarship (Undergraduate)** for the 2024–2025 academic year.
 
 # 📝 Publications 
