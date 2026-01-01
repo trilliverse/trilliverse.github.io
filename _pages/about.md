@@ -29,6 +29,7 @@ My research interest includes neural machine translation and computer vision. I 
 
 
 # 🔥 News
+- *2025.01*: 🚀 Launched the [**SCUT-BDA Wiki**](https://scut-bda.github.io/BDA-wiki/), a collaborative knowledge base for the Big Data Association at South China University of Technology ([SCUT BDA](https://github.com/SCUT-BDA)), built with MkDocs and GitHub Pages.
 - *2025.10*: 🎉 Awarded the **National Scholarship (Undergraduate)** for the 2024–2025 academic year.
 
 # 📝 Publications 
