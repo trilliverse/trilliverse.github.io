@@ -7,7 +7,7 @@
 
 # Site Settings
 title                    : "Zhaoyu Liu (刘兆宇)"
-description              : "To be filled"
+description              : "Focus on graph neural networks and AIDB"
 repository               : "trilliverse/trilliverse.github.io"
 google_scholar_stats_use_cdn : true
 
